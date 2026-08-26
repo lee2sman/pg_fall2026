@@ -1,6 +1,6 @@
-# Programming Games Fall 2024
+# Programming Games Fall 2026
 
-Repo for SUNY Purchase, Programming Games, Fall 2024  
+Repo for SUNY Purchase, Programming Games, Fall 2026  
 
 ## Site information
 
